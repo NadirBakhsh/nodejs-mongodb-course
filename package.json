@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "loadsh": "0.0.4",
     "mongoose": "^5.11.9",
     "underscore": "^1.12.0"
